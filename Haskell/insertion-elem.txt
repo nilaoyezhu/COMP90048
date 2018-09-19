@@ -1,0 +1,4 @@
+insertion_elem :: Int -> [Int] -> [Int]
+
+insertion_elem a []   = [a]
+insertion_elen _ x:xs = x:xs
