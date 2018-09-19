@@ -1,4 +1,4 @@
-# hello-world
-First Github program
+# Haskell codes
+COMP90048
 
-Newcomer. Studying to program.
+Exercises from the textbook
